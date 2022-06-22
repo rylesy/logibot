@@ -242,7 +242,7 @@ def start(update: Update, context: CallbackContext):
 × *Uᴘᴛɪᴍᴇ:* `{}`
 × `{}` *Uꜱᴇʀ, Aᴄʀᴏꜱꜱ* `{}` *Cʜᴀᴛꜱ.*
 ───────────────────
-× *Pᴏᴡᴇʀᴇᴅ Bʏ: UNO *
+× *Pᴏᴡᴇʀᴇᴅ Bʏ: UNO*
 ───────────────────""".format(
                     escape_markdown(first_name),
                     escape_markdown(uptime),
