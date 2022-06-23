@@ -190,7 +190,7 @@ def new_member(update: Update, context: CallbackContext):
             # Give the owner a special welcome
             if new_mem.id == OWNER_ID:
                 update.effective_message.reply_text(
-                    "Stay Alert, Superior just joined Here.", reply_to_message_id=reply
+                    "Quiet, My master just joined Here!Welcome master.", reply_to_message_id=reply
                 )
                 welcome_log = (
                     f"{html.escape(chat.title)}\n"
@@ -546,7 +546,7 @@ def left_member(update: Update, context: CallbackContext):
             # Give the owner a special goodbye
             if left_mem.id == OWNER_ID:
                 update.effective_message.reply_text(
-                    "Sad! Superior left's..", reply_to_message_id=reply
+                    "Sad! Umalis si Uno..", reply_to_message_id=reply
                 )
                 return
 
@@ -662,13 +662,13 @@ def welcome(update: Update, context: CallbackContext):
         if args[0].lower() in ("on", "yes"):
             sql.set_welc_preference(str(chat.id), True)
             update.effective_message.reply_text(
-                "Okay! I'll greet members when they join."
+                "Okay! Magiging mabait ako sa pagbati."
             )
 
         elif args[0].lower() in ("off", "no"):
             sql.set_welc_preference(str(chat.id), False)
             update.effective_message.reply_text(
-                "I'll go loaf around and not welcome anyone then."
+                "Pero bakit gusto ko mangwelcome! edi dont."
             )
 
         else:
