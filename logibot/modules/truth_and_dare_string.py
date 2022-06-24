@@ -17,7 +17,7 @@ TRUTH = (
     "Have you ever lied about your age to participate in a contest?",
     "Have you ever been caught checking someone out?",
     "FIND MY LOVER - ONLY FOR GIRLS!😂 ",
-    "see your [🕊.⋆𝙆𝙄𝙉𝙂](https://t.me/cl_me_logesh)",
+    "see your [OWNER](https://t.me/OneUnoOnly)",
   
 )
 
@@ -72,5 +72,5 @@ DARE = (
     "Send a screenshot of your gallery.",
     "Set your crush’s picture as your dp.",
     "Suggest me more dares.",
-    "see your [🕊.⋆𝙆𝙄𝙉𝙂](https://t.me/cl_me_logesh)",
+    "see your [OWNER](https://t.me/OneUnoOnly)",
 )
