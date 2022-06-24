@@ -69,7 +69,7 @@ def no_longer_afk(update: Update, context: CallbackContext):
                 "uy! andito na si {}",
                 "asan si {}?\nNandito sa gc!",
                 "kamusta lakad mo? {}",
-                "Hi {}! bat ka bumalik?
+                "Hi {}! bat ka bumalik?",
                 "may chismis kana ba?",
                 "Where is {}?\nIn the chat!",
             ]
