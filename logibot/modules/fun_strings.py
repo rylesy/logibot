@@ -27,7 +27,7 @@ GIFS = [
 
 SLAP_MASHA_TEMPLATES = (
     "Slap me one more time and I'll mute you.",
-    "Stop slapping me. REEEEEEEEEEEEEE.",
+    "Hibang kaba? bat ko sasampalin sarili ko!. PAKYU",
     [
         "I am muting you for a minute.",  # normal reply
         "Stop slapping me just because I can't mute you. REEEEEEEEEE.",  # reply to admin
@@ -411,7 +411,7 @@ EARS = [
     ["(∩", ")⊃━☆ﾟ.*"],
 ]
 
-TOSS = ("Heads", "Tails")
+TOSS = ("Heads", "Tails", "uno is mabait")
 
 EIGHTBALL = [
     "🟢 As I see it, yes.",
@@ -436,7 +436,7 @@ EIGHTBALL = [
     "🟢 You may rely on it.",
 ]
 
-DECIDE = ("Yes.", "No.", "Maybe.")
+DECIDE = ("Yes.", "No.", "Maybe.", "baka.", "siguro")
 
 TABLE = (
     "(╯°□°）╯彡 ┻━┻",
