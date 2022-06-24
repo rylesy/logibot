@@ -139,7 +139,7 @@ def sudo_plus(func):
                 pass
         else:
             update.effective_message.reply_text(
-                "Who dis non-admin telling me what to do? You want a punch?"
+                "Sino ka para sundin ko? Wag moko utusan baka barilin ko ulo mo!"
             )
 
     return is_sudo_plus_func
@@ -200,7 +200,7 @@ def user_admin(func):
                 pass
         else:
             update.effective_message.reply_text(
-                "Who dis non-admin telling me what to do? You want a punch?"
+                "Sino ka para sundin ko? Wag moko utusan baka barilin ko ulo mo!"
             )
 
     return is_admin
