@@ -203,7 +203,7 @@ async def captcha_state(_, message):
     else:
         await message.reply_text(usage)
 
-__mod_name__ = "✨Kᴀʀᴍᴀ✨"
+__mod_name__ = "Kᴀʀᴍᴀ"
 
 __help__ = """
 [UPVOTE] - Use upvote keywords like "+", "+1", "thanks" etc to upvote a cb.message.
