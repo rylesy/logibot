@@ -288,4 +288,4 @@ async def lego(event):
 __help__ = """
  - /logo <text> :  Create your logo with your name
  """
-__mod_name__ = "✨Lᴏɢᴏ✨"
+__mod_name__ = "Lᴏɢᴏ"
