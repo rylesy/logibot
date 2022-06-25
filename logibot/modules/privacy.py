@@ -292,7 +292,7 @@ def greyson_cancel_callback(update, context):
             disable_web_page_preview=True
           )
 
-__mod_name__ = "✨Pʀɪᴠᴀᴄʏ✨"
+__mod_name__ = "Pʀɪᴠᴀᴄʏ"
 
 __help__ = """
 The privacy module allows you to see the bot privacy policy, as well as view and delete the data the bot stores about you.
