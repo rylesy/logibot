@@ -145,7 +145,7 @@ Chatbot utilizes the LOGI api which allows tiana to talk and provide a more inte
 
 """
 
-__mod_name__ = "✨CʜᴀᴛBᴏᴛ✨"
+__mod_name__ = "CʜᴀᴛBᴏᴛ"
 
 
 CHATBOTK_HANDLER = CommandHandler("chatbot", kuki)
