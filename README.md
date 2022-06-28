@@ -1,5 +1,5 @@
 <h1 align= center><b>⭐️ SUKUNA GROUP MANAGEMENT BOT ⭐️</b></h1>
-<h3 align = center> LOGI is a Telegram group managment bot made using Telethon and Pyrogram which makes it modern and faster than most of the exisitng Telegram Chat Managers.</h3>
+<h3 align = center> SUKUNA is a Telegram group managment bot made using Telethon and Pyrogram which makes it modern and faster than most of the exisitng Telegram Chat Managers.</h3>
 
 <p align="center"><img src="[https://te.legra.ph/file/a2892236a66754df2b0d8.jpg]"></p>
 
