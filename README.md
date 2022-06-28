@@ -1,23 +1,23 @@
-<h1 align= center><b>⭐️ LOGI GROUP MANAGEMENT BOT ⭐️</b></h1>
+<h1 align= center><b>⭐️ SUKUNA GROUP MANAGEMENT BOT ⭐️</b></h1>
 <h3 align = center> LOGI is a Telegram group managment bot made using Telethon and Pyrogram which makes it modern and faster than most of the exisitng Telegram Chat Managers.</h3>
 
-<p align="center"><img src="https://te.legra.ph/file/772a084488dbac5eafd7a.jpg"></p>
+<p align="center"><img src="[https://te.legra.ph/file/a2892236a66754df2b0d8.jpg]"></p>
 
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 </h4>
 <p align="center">
-    <a href="https://t.me/logi_ro_Bot"> Ready-To-Use Bot </a> •
-    <a href="https://github.com/LOGI-LAB/logibot"> Documentation </a> •
-    <a href="https://t.me/logi_channel"> Update Channel </a> •
-    <a href="https://t.me/logi_channel"> Support Chat </a> 
+    <a href="https://t.me/OneUnoOnly"> Ready-To-Use Bot </a> •
+    <a href="https://github.com/UnoDark/logibot"> Documentation </a> •
+    <a href="https://t.me/DisguiseDemon"> Update Channel </a> •
+    <a href="https://t.me/Hangawtss"> Support Chat </a> 
 </p>
 <h3 align="center">
     Ready to use method
 </h3>
 
 <p align="center">
-    * <a href="https://t.me/logi_ro_bot"> LOGI BOT </a> | +Add me to you group </a> .
+    * <a href="https://t.me/UnoSukuna_Bot"> SUKUNA BOT </a> | +Add me to you group </a> .
     * Make me as a group admin with all rights </a> .
     * ENJoy It ! . 
    
