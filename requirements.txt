@@ -77,3 +77,4 @@ multicolorcaptcha
 youtube-search
 ffmpeg
 ffmpeg-python
+wbb
