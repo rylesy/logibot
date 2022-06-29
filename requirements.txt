@@ -76,3 +76,4 @@ img2pdf
 multicolorcaptcha
 youtube-search
 ffmpeg
+ffmpeg-python
